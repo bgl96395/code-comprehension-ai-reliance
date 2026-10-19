@@ -1,0 +1,11 @@
+participant_code,year_of_study,prog_experience,ai_write,ai_fix,ai_explain,comp_correct,bug_found,strategy
+T01,1,0,5,4,5,2,1,reprompt_ai
+T02,1,1,2,2,1,5,3,manual_tracing
+T03,2,1,4,3,4,3,2,print_or_debugger
+T04,2,0,1,2,2,6,3,manual_tracing
+T05,1,0,5,5,4,1,0,reprompt_ai
+T06,2,1,3,3,3,4,2,print_or_debugger
+T07,1,0,2,1,2,5,3,manual_tracing
+T08,2,1,4,4,5,2,1,reprompt_ai
+T08,2,1,4,4,5,2,1,reprompt_ai
+T09,1,0,,3,3,4,2,other
