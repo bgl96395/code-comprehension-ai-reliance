@@ -1,0 +1,5 @@
+check,outcome,n,estimate,p_value
+"Spearman, composite without ai_explain",Code-reading,10,-0.1929,0.5934
+"Spearman, composite without ai_explain",Bug-finding,10,-0.1442,0.6909
+"Median split (high vs low), rank-biserial r",Code-reading,10,-0.16,0.7373
+"Median split (high vs low), rank-biserial r",Bug-finding,10,-0.12,0.8174

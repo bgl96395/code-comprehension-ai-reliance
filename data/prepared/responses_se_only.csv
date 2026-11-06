@@ -1,0 +1,11 @@
+participant_code,year_of_study,prog_experience,programme,ai_write,ai_fix,ai_explain,comp_correct,bug_found,strategy,strategy_coder1,strategy_coder2,used_help
+P1111,1,0,Software Engineering,3,3,3,3,0,print_or_debugger,print_or_debugger,print_or_debugger,1
+P1111-b,2,1,Software Engineering,3,3,3,5,2,other,other,other,0
+P2427,2,0,Software Engineering,4,5,3,5,1,reprompt_ai,reprompt_ai,reprompt_ai,1
+P2427-b,2,1,Software Engineering,5,5,5,4,2,other,other,other,0
+P4545,2,1,Software Engineering,1,1,1,5,2,other,other,other,1
+P5555,2,0,Software Engineering,1,1,1,5,2,other,other,other,1
+P6769,1,0,Software Engineering,1,1,1,2,0,other,other,other,1
+P7429,1,1,Software Engineering,4,3,4,3,0,reprompt_ai,reprompt_ai,reprompt_ai,0
+P7894,2,1,Software Engineering,2,4,5,5,2,other,other,other,1
+P8787,2,1,Software Engineering,5,3,4,1,0,print_or_debugger,print_or_debugger,print_or_debugger,1

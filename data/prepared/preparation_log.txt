@@ -1,0 +1,22 @@
+Optional question 'D5' (pilot) not found: step skipped.
+Source file: forms_export.csv
+Raw form submissions: 52
+Collection dates: 2026-11-02 to 2026-11-05 (52 timestamps parsed of 52)
+Participant codes not exactly 4 digits (consenting): 0
+Codes that look like placeholders (same or sequential digits): 10 (kept, informational)
+
+Step | removed | remaining
+Raw form submissions | - | 52
+No consent | 7 | 45
+Not in an eligible IT programme | 1 | 44
+Not in year 1 or 2 | 13 | 31
+Paid software developer (incl. unanswered) | 21 | 10
+Took part in the pilot | 0 | 10
+Repeated codes with DIFFERENT answers, kept as separate people (code suffixed -b, -c): 2
+Repeat submission (identical answers to an earlier one, first kept) | 0 | 10
+Flagged, kept in the main analysis: reported outside help | 7 | 10
+Eligible participants: 10
+Programme of eligible: Software Engineering 10
+Coder agreement before resolution: 10 of 10 (100.0%); disagreements: 0 (Cohen's kappa is computed by analysis.py)
+Written: responses.csv (10), responses_no_help.csv (3), responses_se_only.csv (10)
+WARNING: responses_no_help.csv has fewer than 10 participants; do not draw conclusions from that check.

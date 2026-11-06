@@ -1,0 +1,19 @@
+Raw records: 10
+Duplicate participant codes removed: 0
+ai_write: out-of-range (not 1-5) set to missing: 0
+ai_fix: out-of-range (not 1-5) set to missing: 0
+ai_explain: out-of-range (not 1-5) set to missing: 0
+comp_correct: out-of-range (not 0-6) set to missing: 0
+bug_found: out-of-range (not 0-3) set to missing: 0
+year_of_study: values not in (1, 2) set to missing: 0
+prog_experience: values not in (0, 1) set to missing: 0
+strategy: codes not in codebook (set to missing): 0
+strategy_coder1: codes not in codebook (set to missing): 0
+strategy_coder2: codes not in codebook (set to missing): 0
+Incomplete reliance questionnaire (excluded from reliance analyses): 0
+Analysed participants: 10
+Cronbach's alpha: 0.918
+Reliance tertiles: ties split by participant_code; participants sharing a score with someone in another group: 2
+Strategy x reliance group: chi2=3.056, df=4, p=0.5486; Cramer's V=0.391; permutation p=0.6056 (10000 permutations); share of expected counts below 5: 100%; n=10 | WARNING: chi-square approximation unreliable; use the permutation p-value / report descriptively.
+Cohen's kappa (coder 1 vs coder 2): 1.000 (n=10)
+Outputs written to: results_main

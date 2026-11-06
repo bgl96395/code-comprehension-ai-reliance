@@ -1,0 +1,18 @@
+characteristic,category,n,pct
+Programme,Software Engineering,10,100.0
+Programme,Computer Science,0,0.0
+Programme,Big Data Analysis,0,0.0
+Programme,Cybersecurity,0,0.0
+Year,1st year,3,30.0
+Year,2nd year,7,70.0
+Prior experience,Yes,6,60.0
+Prior experience,No,4,40.0
+Reported help,Yes,7,70.0
+Reported help,No,3,30.0
+AI tool used (multiple choice),ChatGPT,1,10.0
+AI tool used (multiple choice),GitHub Copilot,0,0.0
+AI tool used (multiple choice),Claude,0,0.0
+AI tool used (multiple choice),Gemini,0,0.0
+AI tool used (multiple choice),Cursor,0,0.0
+AI tool used (multiple choice),DeepSeek,0,0.0
+AI tool used (multiple choice),Other,9,90.0

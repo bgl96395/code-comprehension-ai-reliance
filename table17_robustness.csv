@@ -1,0 +1,6 @@
+check,Code-reading,Bug-finding
+"Main: Spearman, composite of three items (n = 10)","rho = -0.18, p = 0.621","rho = -0.09, p = 0.814"
+Composite without ai_explain,"rho = -0.19, p = 0.593","rho = -0.14, p = 0.691"
+"Median split, Mann-Whitney, rank-biserial r","r = -0.16, p = 0.737","r = -0.12, p = 0.817"
+Excluding reported outside help (n = 3),"rho = -0.50, p = 0.667 (n<10: not interpreted)","rho = 0.00, p = 1.000 (n<10: not interpreted)"
+Software Engineering only (n = 10),"rho = -0.18, p = 0.621","rho = -0.09, p = 0.814"

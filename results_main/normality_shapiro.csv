@@ -1,0 +1,4 @@
+variable,n,shapiro_W,p_value
+reliance,10,0.8633,0.0834
+comp_prop,10,0.8148,0.0219
+bug_prop,10,0.7134,0.0013

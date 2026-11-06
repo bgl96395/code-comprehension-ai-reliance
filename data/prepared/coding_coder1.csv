@@ -1,0 +1,11 @@
+﻿participant_code,st1,st2,strategy
+P4545,never,never,other
+P7894,IDK,never,other
+P6769,.,🤯🤯,other
+P5555,never,never,other
+P7429,Ask from ai,-,reprompt_ai
+P1111-b,цввф,ывф,other
+P2427,I usually copy the error message and ask ChatGPT to explain it. Then I follow the suggested steps and test my code again,I looked at the lines that seemed incorrect and asked ChatGPT to explain what might be wrong. Then I tested its suggestion by running the code again,reprompt_ai
+P1111,I use debugging tools or print statements to check the values of variables. This helps me find the part of the code that is not working,I used a debugger to follow the execution step by step. I checked how variables changed and where the program behaved unexpectedly,print_or_debugger
+P8787,"I usually run the code again to see where the error appears. After that, I search for the solution on Google or Stack Overflow",I started by checking the output and comparing it with the expected result. Then I looked through the code to find where the results became differen,print_or_debugger
+P2427-b,IDK,IDK,other

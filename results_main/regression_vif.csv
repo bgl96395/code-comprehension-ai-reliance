@@ -1,0 +1,7 @@
+outcome,predictor,vif
+Code-reading,reliance,1.2
+Code-reading,year_of_study,1.147
+Code-reading,prog_experience,1.33
+Bug-finding,reliance,1.2
+Bug-finding,year_of_study,1.147
+Bug-finding,prog_experience,1.33

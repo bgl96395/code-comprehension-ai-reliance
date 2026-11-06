@@ -1,0 +1,6 @@
+response,label,ai_write,ai_fix,ai_explain
+1,Never,0,0,0
+2,Rarely,0,0,0
+3,Sometimes,1,2,1
+4,Often,1,0,1
+5,Almost always,1,1,1

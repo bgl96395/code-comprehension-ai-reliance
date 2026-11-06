@@ -1,0 +1,11 @@
+participant_code,year_of_study,prog_experience,programme,ai_write,ai_fix,ai_explain,comp_correct,bug_found,strategy,strategy_coder1,strategy_coder2,used_help,reliance,comp_prop,bug_prop
+P1111,1.0,0.0,Software Engineering,3.0,3.0,3.0,3.0,0.0,print_or_debugger,print_or_debugger,print_or_debugger,1,3.0,0.5,0.0
+P1111-b,2.0,1.0,Software Engineering,3.0,3.0,3.0,5.0,2.0,other,other,other,0,3.0,0.8333333333333334,0.6666666666666666
+P2427,2.0,0.0,Software Engineering,4.0,5.0,3.0,5.0,1.0,reprompt_ai,reprompt_ai,reprompt_ai,1,4.0,0.8333333333333334,0.3333333333333333
+P2427-b,2.0,1.0,Software Engineering,5.0,5.0,5.0,4.0,2.0,other,other,other,0,5.0,0.6666666666666666,0.6666666666666666
+P4545,2.0,1.0,Software Engineering,1.0,1.0,1.0,5.0,2.0,other,other,other,1,1.0,0.8333333333333334,0.6666666666666666
+P5555,2.0,0.0,Software Engineering,1.0,1.0,1.0,5.0,2.0,other,other,other,1,1.0,0.8333333333333334,0.6666666666666666
+P6769,1.0,0.0,Software Engineering,1.0,1.0,1.0,2.0,0.0,other,other,other,1,1.0,0.3333333333333333,0.0
+P7429,1.0,1.0,Software Engineering,4.0,3.0,4.0,3.0,0.0,reprompt_ai,reprompt_ai,reprompt_ai,0,3.6666666666666665,0.5,0.0
+P7894,2.0,1.0,Software Engineering,2.0,4.0,5.0,5.0,2.0,other,other,other,1,3.6666666666666665,0.8333333333333334,0.6666666666666666
+P8787,2.0,1.0,Software Engineering,5.0,3.0,4.0,1.0,0.0,print_or_debugger,print_or_debugger,print_or_debugger,1,4.0,0.16666666666666666,0.0

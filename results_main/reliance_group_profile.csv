@@ -1,0 +1,4 @@
+group,n,reliance_min,reliance_max,median_comp_correct,median_comp_prop,median_bug_found,median_bug_prop,n_with_strategy,most_common_strategy,most_common_n
+low,3,1.0,1.0,5.0,0.833,2.0,0.667,3,other,3
+moderate,3,3.0,3.667,3.0,0.5,0.0,0.0,3,other / print_or_debugger / reprompt_ai,1
+high,4,3.667,5.0,4.5,0.75,1.5,0.5,4,other,2

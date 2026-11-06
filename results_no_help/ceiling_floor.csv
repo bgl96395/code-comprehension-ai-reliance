@@ -1,0 +1,7 @@
+variable,n,scale_min,scale_max,share_at_max,share_at_min,share_4_or_5
+ai_write,3,1,5,0.333,0.0,0.667
+ai_fix,3,1,5,0.333,0.0,0.333
+ai_explain,3,1,5,0.333,0.0,0.667
+reliance,3,1,5,0.333,0.0,0.333
+comp_prop,3,0,1,0.0,0.0,
+bug_prop,3,0,1,0.0,0.333,
